@@ -1,0 +1,18 @@
+{
+  "generate_features": true,
+  "bonus_chest": false,
+  "seed": 1042845924,
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "bedrock1:dimension_type2",
+      "generator": {
+        "type": "minecraft:noise",
+        "settings": "bedrock1:noise_settings1",
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:overworld"
+        }
+      }
+    }
+  }
+}
