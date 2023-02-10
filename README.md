@@ -1,5 +1,5 @@
 # bedrock_floor
-just some testing for custom bedrock_floor layer height  
+just some 1.19 testing for custom bedrock_floor layer height  
 at y=0 for example, to get it 1.17 like
 
 # how to use
