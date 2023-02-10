@@ -6,9 +6,6 @@ at y=0 for example, to get it 1.17 like
 for vanilla, use "minecraft"  
 for custom dimension, use "bedrock1"
 
-i dont know how to delete data and pack.mcmeta from test2 from this rep btw .. so pls ignore those files
-
-
 # how it is done
 you can also generate your own code, for different bedrock_floor layer height with help of https://misode.github.io/  
 just add +64, +48, +23 or +16 to all Y-Values (bedrock_floor layer result: 0, -16, -32, -48)
