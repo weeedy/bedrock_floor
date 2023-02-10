@@ -9,8 +9,8 @@ i dont know how to delete data and pack.mcmeta from test2 from this rep btw .. s
 
 
 # how is it done
-you also can generate your own code, for Y Value with help of https://misode.github.io/  
-just set all Y-Values +64, +48, +23 or +16 (bedrock_floor layer result: 0, -16, -32, -48)
+you also can generate your own code, for different vedrock_floor layer height with help of https://misode.github.io/  
+just add +64, +48, +23 or +16 to all Y-Values (bedrock_floor layer result: 0, -16, -32, -48)
 
 change Y values in following worldgen:  
 Dimension Generator
