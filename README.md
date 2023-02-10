@@ -26,5 +26,5 @@ https://misode.github.io/worldgen/density-function/?version=1.19&preset=overworl
 dont forget to change the worldgen references between worldgen code files .. 
 so for example if your datapack namespace is "custom" and you named your density_function "noodle.json" you have to change "minecraft:overworld/caves/noodle" to "custom:noodle" in your Noise Settings Generator Code.
 
-
-
+#### WHICH Y VALUES SHOULD I CHANGE?
+especially if Y default value is -64 or -60 .. we are in testing phase, maybe you also should change -40, all negative, or all Y values
