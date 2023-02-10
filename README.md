@@ -1,5 +1,6 @@
 # bedrock_floor
-only some testing for bedrock_floor at y=0 1.17 like layer
+just some testing for custom bedrock_floor layer height  
+at y=0 for example, to get it 1.17 like
 
 # how to use
 for vanilla, use "minecraft"  
