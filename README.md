@@ -13,6 +13,7 @@ you also can generate your own code, for Y Value with help of https://misode.git
 just set all Y-Values +64, +48, +23 or +16 (bedrock_floor layer result: 0, -16, -32, -48)
 
 change Y values in following worldgen:
+
 https://misode.github.io/dimension/?share=FMn8lZnMh3
 https://misode.github.io/dimension-type/?version=1.19&preset=overworld
 https://misode.github.io/worldgen/noise-settings/?share=dhQytbRk4P
