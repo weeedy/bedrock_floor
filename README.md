@@ -13,13 +13,13 @@ you also can generate your own code, for different vedrock_floor layer height wi
 just add +64, +48, +23 or +16 to all Y-Values (bedrock_floor layer result: 0, -16, -32, -48)
 
 change Y values in following worldgen:  
-Dimension Generator
+Dimension Generator  
 https://misode.github.io/dimension/?share=FMn8lZnMh3  
-Dimension Type Generator
+Dimension Type Generator  
 https://misode.github.io/dimension-type/?version=1.19&preset=overworld  
-Noise Settings Generator
+Noise Settings Generator  
 https://misode.github.io/worldgen/noise-settings/?share=dhQytbRk4P  
-Density Function Generator
+Density Function Generator  
 https://misode.github.io/worldgen/density-function/?version=1.19&preset=overworld%2Fcaves%2Fnoodle  
 
 #### IF YOU WANT TO USE IT FOR CUSTOM DIMENSION
