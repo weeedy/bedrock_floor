@@ -1,4 +1,7 @@
 # bedrock_floor
+Hello World
+
+Da ist Text
 only some testing for bedrock_floor at y=0 1.17 like layer
 
 # how to use
