@@ -9,7 +9,7 @@ i dont know how to delete data and pack.mcmeta from test2 from this rep btw .. s
 
 
 # how it is done
-you can also generate your own code, for different vedrock_floor layer height with help of https://misode.github.io/  
+you can also generate your own code, for different bedrock_floor layer height with help of https://misode.github.io/  
 just add +64, +48, +23 or +16 to all Y-Values (bedrock_floor layer result: 0, -16, -32, -48)
 
 change Y values in following worldgen:  
@@ -23,7 +23,7 @@ Density Function Generator
 https://misode.github.io/worldgen/density-function/?version=1.19&preset=overworld%2Fcaves%2Fnoodle  
 
 #### IF YOU WANT TO USE IT FOR CUSTOM DIMENSION
-dont forget to change the worldgen references betweetn worldgen code files .. 
+dont forget to change the worldgen references between worldgen code files .. 
 so for example if your datapack namespace is "custom" and you named your density_function "noodle.json" you have to change "minecraft:overworld/caves/noodle" to "custom:noodle" in your Noise Settings Generator Code.
 
 
