@@ -7,7 +7,7 @@ for vanilla, use "minecraft"
 for custom dimension, use "bedrock1"
 
 # how it is done
-you can also generate your own code, for different bedrock_floor layer height with help of https://misode.github.io/  
+you can also generate your own code, for different bedrock_floor layer height with help of https://misode.github.io/ thanks@https://github.com/misode  
 just add +64, +48, +23 or +16 to all Y-Values (bedrock_floor layer result: 0, -16, -32, -48)
 
 change Y values in following worldgen:  
@@ -16,7 +16,7 @@ https://misode.github.io/dimension/?share=FMn8lZnMh3
 Dimension Type Generator  
 https://misode.github.io/dimension-type/?version=1.19&preset=overworld  
 Noise Settings Generator  
-https://misode.github.io/worldgen/noise-settings/?share=dhQytbRk4P  
+https://misode.github.io/worldgen/noise-settings/?share=dhQytbRk4P thanks@https://github.com/BluePsychoRanger  
 Density Function Generator  
 https://misode.github.io/worldgen/density-function/?version=1.19&preset=overworld%2Fcaves%2Fnoodle  
 
