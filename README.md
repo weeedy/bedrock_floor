@@ -29,7 +29,8 @@ especially if Y default value is -64 or -60 .. we are in testing phase, maybe yo
 
 ## what is planned?
 it would be nice to create a datapack, where you can set a variable (e.g. "floor") in a config file, which indicates your wanted bedrock_floor layer height ..
-as a result, it would generate a second variable (e.g. "add"), which will add the needed value to the Y-Values in existing worldgen code.
+as a result, it would generate a second variable (e.g. "add"), which will add the needed value to the Y-Values in existing worldgen code.  
+another question would be, if it makes more sense to add some "relative" values to Y .. and not "absolute" values
 
 
 i think that way it would be possible to get 4 scenarios, user could change:  
