@@ -39,3 +39,4 @@ i think that way it would be possible to get 4 scenarios, user could change:
 "floor"=	-32		"add"=	32  
 "floor"=	-48		"add"=	16  
 
+#### for more info, join conversation r/MinecraftCommands their discord https://discord.gg/QAFXFtZ here https://discord.com/channels/154777837382008833/1070953594288881724 or https://github.com/misode/misode.github.io/discussions/208#discussioncomment-4897621
