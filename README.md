@@ -34,7 +34,7 @@ another question would be, if it makes more sense to add some "relative" values 
 
 
 i think that way it would be possible to get 4 scenarios, user could change:  
-"floor"=	0		  "add"=	64  
+"floor"=	0		    "add"=	64  
 "floor"=	-16		"add"=	48  
 "floor"=	-32		"add"=	32  
 "floor"=	-48		"add"=	16  
