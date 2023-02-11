@@ -1,0 +1,13 @@
+{
+
+      "type": "custom:dimension_type",
+      "generator": {
+        "type": "minecraft:noise",
+        "settings": "custom:noise_settings",
+        "biome_source": {
+          "type": "minecraft:multi_noise",
+          "preset": "minecraft:overworld"
+        }
+      }
+    
+  }
