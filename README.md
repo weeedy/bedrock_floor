@@ -4,7 +4,7 @@ at y=0 for example, to get it 1.17 like
 
 # how to use
 for vanilla, use "minecraft"  
-for custom dimension, use "bedrock1"
+for custom dimension, use "custom"
 
 # how it is done
 you can also generate your own code, for different bedrock_floor layer height with help of https://misode.github.io/ thanks@https://github.com/misode  
