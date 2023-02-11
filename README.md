@@ -26,3 +26,14 @@ so for example if your datapack namespace is "custom" and you named your density
 
 #### WHICH Y VALUES SHOULD I CHANGE?
 especially if Y default value is -64 or -60 .. we are in testing phase, maybe you also should change -40, all negative, or all Y values
+
+## what is planned?
+it would be nice to create a datapack, where you can set a variable in a config file, and then this variable indicates your bedrock_floor layer .. 
+in worldgen code there also would variables, that are added to Y values, vor example "add"
+
+i think that way it would be possible to get 4 scenarios, user could change:  
+"layer"=	0		  "add"=	64
+"layer"=	-16		"add"=	48
+"layer"=	-32		"add"=	32
+"layer"=	-48		"add"=	16
+
