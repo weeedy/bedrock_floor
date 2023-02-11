@@ -28,7 +28,7 @@ so for example if your datapack namespace is "custom" and you named your density
 especially if Y default value is -64 or -60 .. we are in testing phase, maybe you also should change -40, all negative, or all Y values
 
 ## what is planned?
-it would be nice to create a datapack, where you can set a variable (e.g. "floor") in a config file, which indicates your wanted bedrock_floor layer height ..  
+it would be nice to create a datapack, where you can set a variable (e.g. "floor") in a config file, which indicates your wanted bedrock_floor layer height ..
 as a result, it would generate a second variable (e.g. "add"), which will add the needed value to the Y-Values in existing worldgen code.
 
 
