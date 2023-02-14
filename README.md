@@ -20,18 +20,23 @@ https://misode.github.io/worldgen/noise-settings/?share=dhQytbRk4P thanks@https:
 Density Function Generator  
 https://misode.github.io/worldgen/density-function/?version=1.19&preset=overworld%2Fcaves%2Fnoodle  
 
-#### IF YOU WANT TO USE IT FOR CUSTOM DIMENSION
+# Q&A
+#### HOW TO USE IT FOR CUSTOM DIMENSION?
 dont forget to change the worldgen references between worldgen code files .. 
 so for example if your datapack namespace is "custom" and you named your density_function "noodle.json" you have to change "minecraft:overworld/caves/noodle" to "custom:noodle" in your Noise Settings Generator Code.
 
 #### WHICH Y VALUES SHOULD I CHANGE?
 especially if Y default value is -64 or -60 .. we are in testing phase, maybe you also should change -40, all negative, or all Y values
 
+#### WHAT ABOUT WORLDBLENDING?
+If you want to use Minecraft Worldblending feature, this will generate wholes in bedrock floor layer. Here is a small manually "workaround" datapack:
+execute as PAYERNAME at @s if entity PLAYERNAME[dimension=minecraft:overworld] run fill ~-16 0 ~-16 ~15 1 ~15 bedrock
+Replace PAYERNAME with you name and minecraft:overworld with dimension you want to use it. Then fly along the worldborder, to fill the wholes between wholes between old and new chunks, where worldblending does its job. The Datapack generates 2x16x16 area .. you can change it by adjusting -16 and 15 values
+
 ## what is planned?
 it would be nice to create a datapack, where you can set a variable (e.g. "floor") in a config file, which indicates your wanted bedrock_floor layer height ..
 as a result, it would generate a second variable (e.g. "add"), which will add the needed value to the Y-Values in existing worldgen code.  
 another question would be, if it makes more sense to add some "relative" values to Y .. and not "absolute" values
-
 
 i think that way it would be possible to get 4 scenarios, user could change:  
 "floor"=	0		    "add"=	64  
