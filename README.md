@@ -29,9 +29,9 @@ so for example if your datapack namespace is "custom" and you named your density
 especially if Y default value is -64 or -60 .. we are in testing phase, maybe you also should change -40, all negative, or all Y values
 
 #### WHAT ABOUT WORLDBLENDING?
-If you want to use Minecraft Worldblending feature, this will generate holes in bedrock floor layer. Here is a small manually "workaround" datapack:
+If you want to use Minecraft Worldblending feature, this will generate holes in bedrock floor layer. Here is a small manually "workaround" datapack:```
 execute as PAYERNAME at @s if entity PLAYERNAME[dimension=minecraft:overworld] run fill ~-16 0 ~-16 ~15 1 ~15 bedrock
-Replace PAYERNAME with you name and minecraft:overworld with dimension you want to use it. Then fly along the worldborder, to fill the holes between old and new chunks, where worldblending does its job. The Datapack generates 2x16x16 area .. you can change it by adjusting -16 and 15 values
+```Replace PAYERNAME with you name and minecraft:overworld with dimension you want to use it. Then fly along the worldborder, to fill the holes between old and new chunks, where worldblending does its job. The Datapack generates 2x16x16 area .. you can change it by adjusting -16 and 15 values
 
 ## what is planned?
 it would be nice to create a datapack, where you can set a variable (e.g. "floor") in a config file, which indicates your wanted bedrock_floor layer height ..
